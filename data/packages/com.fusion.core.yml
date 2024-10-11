@@ -1,0 +1,16 @@
+name: com.fusion.core
+displayName: Fusion-Core
+description: Fusion framework's core part.
+repoUrl: https://github.com/itsxwz/Fusion-Core
+parentRepoUrl: null
+licenseSpdxId: MIT
+licenseName: MIT License
+image: ''
+topics:
+  - testing
+hunter: 86k
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: main:README.md
+createdAt: 1728627091298
